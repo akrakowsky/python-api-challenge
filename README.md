@@ -17,6 +17,6 @@ Use Python API to show that it gets warmer closer to the equator.
 
 # Observable Trends from Weather Py
 
-1. The maximum temperature increases as the equator is aprroached witha stron correlation.
+1. The maximum temperature increases as the equator is approached with a strong correlation.
 2. There is no correlation between latitude and humidity at either hemisphere.
 3. There is no correlation between latitude and wind speed at either hemisphere.
